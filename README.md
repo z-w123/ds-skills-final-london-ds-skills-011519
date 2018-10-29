@@ -11,7 +11,6 @@ When choosing a project topic, thinking of the data available is mission critica
 * Yelp
 * Open311
 * Open Movie Database
-* Google Maps
 
 Using other APIs may be acceptable, but support may be limited. Talk to your instructor early and be prepared to choose an alternative option if you attempt to use another API.   
   
